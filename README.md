@@ -28,15 +28,24 @@ The application supports **English and Persian interfaces** and is intended for 
 
 ## Download
 
-Download the latest version of XelAnalyse from the **GitHub Releases** page.
+## ⬇️ Download XelAnalyse
 
-1. Open the [Releases page](https://github.com/hesamghoreashy/XelAnalyse/releases).
-2. Select the latest release.
-3. Download the Windows installer, if available.
-4. Run the installer and follow the on-screen instructions.
-5. Launch XelAnalyse from the installed application or its shortcut.
+**XelAnalyse v1.0.0** · Windows
 
-> If the Releases page is unavailable, check the repository owner's profile for the correct project link.
+Ready to analyze your Excel data? Download the installer and get started.
+
+<p align="center">
+  <a href="https://github.com/hesamghoreashy/XelAnalyse/releases/download/v1.0.0/XelAnalyse-setup.exe">
+    <img src="https://img.shields.io/badge/Download_for_Windows-v1.0.0-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Download XelAnalyse for Windows">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Windows installer · Proprietary software · Source code not included</sub>
+</p>
+
+[View all releases](https://github.com/hesamghoreashy/XelAnalyse/releases)
+
 
 ## System Requirements
 
@@ -99,7 +108,7 @@ Use, copying, modification, redistribution, and other rights are governed by the
 - GitHub: [@hesamghoreashy](https://github.com/hesamghoreashy)
 - LinkedIn: See the LinkedIn link on my GitHub profile.
 
-For bug reports, feature requests, or suggestions, please use the **Issues** section of this repository if it is enabled.
+For bug reports, feature requests, or suggestions, please use the **Issues** section of this repository.
 
 ## Disclaimer
 
