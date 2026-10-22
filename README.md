@@ -49,7 +49,7 @@ Ready to analyze your Excel data? Download the installer and get started.
 
 ## System Requirements
 
-- **Operating system:** Windows 8 or later
+- **Operating system:** Windows 10 or later
 - **Architecture:** 64-bit Windows
 - **Installation:** Use the provided installer and follow its instructions.
 
